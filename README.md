@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 # Hello World
 I'm hosted with GitHub Pages.
 
-'''markdown
+
 # Jeremy Li 
 email:  
 phone: 
@@ -85,5 +85,3 @@ website:
 - Conducted market research by making surveys and focus groups to gather insights on early talent conversion and built a deck to advise senior management on talent retention within RBC Technology & Operations
 - Analyzed communication platforms used by RBC Technology & Operations to find the most effective way to communicate and engage employees within the organization, and prototyped web-page designs for new graduates in T&O
 - Engaged within the RBC community via 10+ coffee chats from students to recruiters, socials, hackathons, networking events, and tech community via volunteering with multiple teams including FutureMakers
-'''
-
