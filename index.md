@@ -40,7 +40,7 @@ website:
   - Analyzed Self Assessment Processes (SAP) evidence by testing and collaborating with Subject Matter Expert’s to accurately report about RBC systems and processes for audit and Office of the Superintendent of Financial Institutions (OSFI).
   - Explored within the RBC community to learn more about RBC Ventures, Operational Risk, Capital Markets, and P&CB via coffee chats, office hours, and socials to get a holistic view of RBC, and why they are holding the position of being the number one bank, and fund-raised $200 individually and $2500+ as a team to the United Way to participate in the CN Tower with RBC Mosaic
 
-#### Business Analyst - Alumni and Insights 
+#### Business Analyst - Alumni and Insights
   - Conducted market research by making surveys and focus groups to gather insights on early talent conversion and built a deck to advise senior management on talent retention within RBC Technology & Operations
   - Analyzed communication platforms used by RBC Technology & Operations to find the most effective way to communicate and engage employees within the organization, and prototyped web-page designs for new graduates in T&O
   - Engaged within the RBC community via 10+ coffee chats from students to recruiters, socials, hackathons, networking events, and tech community via volunteering with multiple teams including FutureMakers
