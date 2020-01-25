@@ -1,15 +1,15 @@
   
 # Jeremy Li
 
-email: [jeremyli319@gmail.com](mailto:jeremyli319@gmail.com)
+> email: [jeremyli319@gmail.com](mailto:jeremyli319@gmail.com)
 
-phone: [416-735-6636](tel:4167356636)
+> phone: [416-735-6636](tel:4167356636)
 
-linkedin: [linkedin.com/in/jer-li](https://www.linkedin.com/in/jer-li/)
+> linkedin: [linkedin.com/in/jer-li](https://www.linkedin.com/in/jer-li/)
 
-photography site: [jkphotography.ca](https://www.jkphotography.ca)
+> photography site: [jkphotography.ca](https://www.jkphotography.ca)
 
-website:[jeremyli.me](http://www.jeremyli.me)
+> website:[jeremyli.me](http://www.jeremyli.me)
 
 
 ---
