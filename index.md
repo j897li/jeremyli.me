@@ -1,4 +1,3 @@
-<div style="text-align: center;">
   
 # Jeremy Li
 
@@ -11,7 +10,7 @@ linkedin: [linkedin.com/in/jer-li](https://www.linkedin.com/in/jer-li/)
 photography site: [jkphotography.ca](https://www.jkphotography.ca)
 
 website:[jeremyli.me](http://www.jeremyli.me)
-</div>
+
 
 ---
 
