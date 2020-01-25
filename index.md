@@ -1,9 +1,4 @@
 
-# Hello World
-I'm hosted with GitHub Pages.
-
----
-
 # Jeremy Li
 
 email: [jeremyli319@gmail.com](mailto:jeremyli319@gmail.com)
