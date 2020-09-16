@@ -17,25 +17,23 @@
 ## Education
 **Bachelor's of Science, Science and Business**  
 University of Waterloo / 2017-2022  
-* *Minor in Economics*  
-* *Minor in Earth Sciences*  
+*Minor in Economics*  
+*Minor in Earth Sciences*  
 
 ----
 
 ## Work Experiences
 ### Sponsorship Co-Director
-> Fashion for Change
-
-> Sept 2019 -  Aug 2020
+> Fashion for Change  
+  > Sept 2019 -  Aug 2020
 
   - Facilitated a team of 10+ Sponsor Managers to find monetary and non-monetary sponsorship opportunities with companies such as RW&CO, GAP, RBC, KW4Rent, and more for the annual fashion show in support of our WE village in Sierra Leone
   - Managed relations between choreographers, board of directors, models, and executives to promote a healthy transparent communication channel between the parties, and solve any setbacks or issues that arises throughout the terms
 
 
 ### President
-> Science and Business Student Association (SBSA)
-
-> Jan 2018 - Aug 2020
+> Science and Business Student Association (SBSA)  
+  > Jan 2018 - Aug 2020
 
   - Coordinated events for the faculty of science to improve student engagement, raise awareness for mental health, and build a supportive community for the students in the Science and Business (SCIBUS) program.
 
@@ -43,8 +41,8 @@ University of Waterloo / 2017-2022
 
 
 ### Project and Change Management Analyst
-> Royal Bank of Canada (RBC)
-> Sept 2019 - Dec 2019
+> Royal Bank of Canada (RBC)  
+  > Sept 2019 - Dec 2019
 
   - Monitored and managed the operational risk data migration project by assisting key stakeholders with changes and issues with scrums, prototyping, UAT,  documentation, and tracking of deadlines to predict changes to the go live date
   - Created and managed multiple project SharePoints, documentations, and communications such as slide decks, newsletters, and excel sheets to organize and update resources for managers, users, executives and other stakeholders
@@ -52,9 +50,8 @@ University of Waterloo / 2017-2022
   - Explored within the RBC community to learn more about RBC Ventures, Operational Risk, Capital Markets, and P&CB via coffee chats, office hours, and socials to get a holistic view of RBC, and why they are holding the position of being the number one bank, and fund-raised $200 individually and $2500+ as a team to the United Way to participate in the CN Tower with RBC Mosaic
 
 ### Business Analyst - Alumni and Insights
-> Royal Bank of Canada (RBC)
-
-> Jan 2019 - Apr 2019
+> Royal Bank of Canada (RBC)  
+  > Jan 2019 - Apr 2019
 
   - Conducted market research by making surveys and focus groups to gather insights on early talent conversion and presented a strategy to advise senior management on talent retention within RBC Technology & Operations
   - Analyzed communication platforms used by RBC Technology & Operations to find the most effective way to communicate and engage employees within the organization, and prototyped web-page designs for new graduates in Technology & Operations
