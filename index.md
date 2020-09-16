@@ -3,7 +3,7 @@
 
 - [x] Email: [jeremyli319@gmail.com](mailto:jeremyli319@gmail.com)
 - [x] Phone: [416-735-6636](tel:4167356636)
-- [x] Linkedin: [linkedin.com/in/jer-li](https://www.linkedin.com/in/jer-li/)
+- [x] LinkedIn: [linkedin.com/in/jer-li](https://www.linkedin.com/in/jer-li/)
 - [ ] Photography site: [jkphotography.ca](https://www.jkphotography.ca) currently unavailable
 - [x] Website: [jeremyli.me](http://www.jeremyli.me)
 
@@ -21,7 +21,7 @@ University of Waterloo / 2017-2022
 ## Work Experiences
 ### Sponsorship Co-Director
 #### Fashion for Change  
-#### Sept 2019 -  Aug 2020
+##### Sept 2019 -  Aug 2020
 
   - Facilitated a team of 10+ Sponsor Managers to find monetary and non-monetary sponsorship opportunities with companies such as RW&CO, GAP, RBC, KW4Rent, and more for the annual fashion show in support of our WE village in Sierra Leone
   - Managed relations between choreographers, board of directors, models, and executives to promote a healthy transparent communication channel between the parties, and solve any setbacks or issues that arises throughout the terms
@@ -29,14 +29,14 @@ University of Waterloo / 2017-2022
 
 ### President
 #### Science and Business Student Association (SBSA)  
-#### Jan 2018 - Aug 2020
+##### Jan 2018 - Aug 2020
 
   - Coordinated events for the faculty of science to improve student engagement, raise awareness for mental health, and build a supportive community for the students in the Science and Business (SCIBUS) program.
   - Strategized with program director to align the association with the program objectives to improve the application process, future daily operations, club space arrangements, and integration with other SCIBUS program resources
 
 ### Project and Change Management Analyst
 #### Royal Bank of Canada (RBC)  
-#### Sept 2019 - Dec 2019
+##### Sept 2019 - Dec 2019
 
   - Monitored and managed the operational risk data migration project by assisting key stakeholders with changes and issues with scrums, prototyping, UAT,  documentation, and tracking of deadlines to predict changes to the go live date
   - Created and managed multiple project SharePoints, documentations, and communications such as slide decks, newsletters, and excel sheets to organize and update resources for managers, users, executives and other stakeholders
@@ -45,7 +45,7 @@ University of Waterloo / 2017-2022
 
 ### Business Analyst - Alumni and Insights
 #### Royal Bank of Canada (RBC)  
-#### Jan 2019 - Apr 2019
+##### Jan 2019 - Apr 2019
 
   - Conducted market research by making surveys and focus groups to gather insights on early talent conversion and presented a strategy to advise senior management on talent retention within RBC Technology & Operations
   - Analyzed communication platforms used by RBC Technology & Operations to find the most effective way to communicate and engage employees within the organization, and prototyped web-page designs for new graduates in Technology & Operations
