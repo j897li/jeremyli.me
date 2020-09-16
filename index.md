@@ -10,6 +10,7 @@
 
 ---
 ##Summary
+
 Ambitious and versatile Science and Business co-op student with well-rounded experiences in the financial and retail industry working face to face with clients/customers, to corporate involvement with enterprise wide projects from technology, operations, risk management, change management, and early talent engagement. Involved in the school community since high school and led teams to compliment the student experience, putting others wants and needs first, and founded clubs to give people an opportunity to express themselves in the community
 
 
