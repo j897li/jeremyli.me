@@ -15,19 +15,17 @@
 *Ambitious and versatile Science and Business co-op student with well-rounded experiences in the financial and retail industry working face to face with clients/customers, to corporate involvement with enterprise wide projects from technology, operations, risk management, change management, and early talent engagement. Involved in the school community since high school and led teams to compliment the student experience, putting others wants and needs first, and founded clubs to give people an opportunity to express themselves in the community*
 
 ## Education
-**Bachelor's of Science, Science and Business**
-
-University of Waterloo / 2017-2022
-
-*Minor in Economics
-
-Minor in Earth Sciences*
+**Bachelor's of Science, Science and Business**  
+University of Waterloo / 2017-2022  
+* *Minor in Economics*  
+* *Minor in Earth Sciences*  
 
 ----
 
 ## Work Experiences
 ### Sponsorship Co-Director
 > Fashion for Change
+
 > Sept 2019 -  Aug 2020
 
   - Facilitated a team of 10+ Sponsor Managers to find monetary and non-monetary sponsorship opportunities with companies such as RW&CO, GAP, RBC, KW4Rent, and more for the annual fashion show in support of our WE village in Sierra Leone
