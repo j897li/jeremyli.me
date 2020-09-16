@@ -4,7 +4,7 @@
 - [x] Email: [jeremyli319@gmail.com](mailto:jeremyli319@gmail.com)
 - [x] Phone: [416-735-6636](tel:4167356636)
 - [x] Linkedin: [linkedin.com/in/jer-li](https://www.linkedin.com/in/jer-li/)
-- [] Photography site: [jkphotography.ca](https://www.jkphotography.ca)
+- [ ] Photography site: [jkphotography.ca](https://www.jkphotography.ca)
 - [x] Website: [jeremyli.me](http://www.jeremyli.me)
 
 
@@ -16,8 +16,11 @@
 
 ## Education
 **Bachelor's of Science, Science and Business**
+
 University of Waterloo / 2017-2022
+
 *Minor in Economics
+
 Minor in Earth Sciences*
 
 ----
@@ -25,7 +28,6 @@ Minor in Earth Sciences*
 ## Work Experiences
 ### Sponsorship Co-Director
 > Fashion for Change
-
 > Sept 2019 -  Aug 2020
 
   - Facilitated a team of 10+ Sponsor Managers to find monetary and non-monetary sponsorship opportunities with companies such as RW&CO, GAP, RBC, KW4Rent, and more for the annual fashion show in support of our WE village in Sierra Leone
@@ -44,7 +46,6 @@ Minor in Earth Sciences*
 
 ### Project and Change Management Analyst
 > Royal Bank of Canada (RBC)
-
 > Sept 2019 - Dec 2019
 
   - Monitored and managed the operational risk data migration project by assisting key stakeholders with changes and issues with scrums, prototyping, UAT,  documentation, and tracking of deadlines to predict changes to the go live date
@@ -63,8 +64,8 @@ Minor in Earth Sciences*
 
 
 ## Other Experience
-> Sales Teammate at Under Armour Canada Vaughan Mills
-Parts Pro at PartSource
-Summer Camp Assistant at The Cross-Cultural Community Services Association
-Co-founder/Vice President of TED-Ed Club RHHS
-Facilitator of TEDxYouth @ RHHS
+- **Sales Teammate** at Under Armour Canada Vaughan Mills
+- **Parts Pro** at PartSource
+- **Summer Camp Assistant** at The Cross-Cultural Community Services Association
+- **Co-founder/Vice President** of TED-Ed Club RHHS
+- **Facilitator** of TEDxYouth @ RHHS
