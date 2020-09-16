@@ -1,4 +1,4 @@
-  
+
 # Jeremy Li
 
 - [x] Email: [jeremyli319@gmail.com](mailto:jeremyli319@gmail.com)
@@ -9,6 +9,9 @@
 
 
 ---
+##Summary
+Ambitious and versatile Science and Business co-op student with well-rounded experiences in the financial and retail industry working face to face with clients/customers, to corporate involvement with enterprise wide projects from technology, operations, risk management, change management, and early talent engagement. Involved in the school community since high school and led teams to compliment the student experience, putting others wants and needs first, and founded clubs to give people an opportunity to express themselves in the community
+
 
 ## Skills Summary
   - Excellent Leadership and Team Management skills from various experiences
@@ -20,32 +23,32 @@
 ----
 
 ## Work Experiences
-### Fashion for Change
-> Sponsorship Co-Director
+### Sponsorship Co-Director
+> Fashion for Change
 
-  - Manage a team of 10+ Sponsor Managers to find monetary and non-monetary sponsorships for the annual fashion show in support of WE Charity
-  - Hosted and facilitated multiple events to 100+ students to celebrate the holidays and fundraise for the show, and model workshops to learn choreographies and how-to catwalk
-
-
-### Science and Business Student Association (SBSA)
-> President
-
-  - Lead a team of executives to coordinate events for the Science and Business students, while collaborating with the university, vendors, and the other science students and clubs.
-  - Designed and collaborated with vendors to create and sell merchandise to fund-raise $1000+ with custom merchandise and promotional content
-  - Created promotional content, and advertised club activities via word of mouth, and social media platforms such as Facebook, Snapchat, Instagram, etc.
+  - Facilitated a team of 10+ Sponsor Managers to find monetary and non-monetary sponsorship opportunities with companies such as RW&CO, GAP, RBC, KW4Rent, and more for the annual fashion show in support of our WE village in Sierra Leone
+  - Managed relations between choreographers, board of directors, models, and executives to promote a healthy transparent communication channel between the parties, and solve any setbacks or issues that arises throughout the terms
 
 
+### President
+> Science and Business Student Association (SBSA)
 
-### Royal Bank of Canada (RBC)
-> Project and Change Management Analyst
+  - Coordinated events for the faculty of science to improve student engagement, raise awareness for mental health, and build a supportive community for the students in the Science and Business (SCIBUS) program.
 
-  - Managed and assisted multiple projects/programs in different phases of the project (Planning, Execution, and Closure) by creating the scope and timelines, managing risks issues, decisions and meeting minutes, and executing project management steps to complete side projects for managers
-  - Created newsletters, slide decks, and written communications for executives and enterprise, published blog posts to create social engagement on the internal social media, and assisted in the creation and maintenance of content on multiple platforms such as the intranet, email, Connect, etc.
-  - Analyzed Self Assessment Processes (SAP) evidence by testing and collaborating with Subject Matter Expert’s to accurately report about RBC systems and processes for audit and Office of the Superintendent of Financial Institutions (OSFI).
+  - Strategized with program director to align the association with the program objectives to improve the application process, future daily operations, club space arrangements, and integration with other SCIBUS program resources
+
+
+### Project and Change Management Analyst
+> Royal Bank of Canada (RBC)
+
+  - Monitored and managed the operational risk data migration project by assisting key stakeholders with changes and issues with scrums, prototyping, UAT,  documentation, and tracking of deadlines to predict changes to the go live date
+  - Created and managed multiple project SharePoints, documentations, and communications such as slide decks, newsletters, and excel sheets to organize and update resources for managers, users, executives and other stakeholders
+  - Modernized web-page/design formats to improve the user interface on multiple platforms such as the intranet and internal social media (Connect), documented the changes made to instruct future content managers how the process works, and updated web-content to actively reflect up to date information
   - Explored within the RBC community to learn more about RBC Ventures, Operational Risk, Capital Markets, and P&CB via coffee chats, office hours, and socials to get a holistic view of RBC, and why they are holding the position of being the number one bank, and fund-raised $200 individually and $2500+ as a team to the United Way to participate in the CN Tower with RBC Mosaic
 
-> Business Analyst - Alumni and Insights
+### Business Analyst - Alumni and Insights
+> Royal Bank of Canada (RBC)
 
-  - Conducted market research by making surveys and focus groups to gather insights on early talent conversion and built a deck to advise senior management on talent retention within RBC Technology & Operations
-  - Analyzed communication platforms used by RBC Technology & Operations to find the most effective way to communicate and engage employees within the organization, and prototyped web-page designs for new graduates in T&O
-  - Engaged within the RBC community via 10+ coffee chats from students to recruiters, socials, hackathons, networking events, and tech community via volunteering with multiple teams including FutureMakers
+  - Conducted market research by making surveys and focus groups to gather insights on early talent conversion and presented a strategy to advise senior management on talent retention within RBC Technology & Operations
+  - Analyzed communication platforms used by RBC Technology & Operations to find the most effective way to communicate and engage employees within the organization, and prototyped web-page designs for new graduates in Technology & Operations
+  - Engaged within the RBC community via 10+ coffee chats from students, to managers, socials, hackathons, networking events, and tech community via volunteering with multiple teams including FutureMakers to learn more about the bank, technology, and the future of the industry
