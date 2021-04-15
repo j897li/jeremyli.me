@@ -5,7 +5,7 @@ section {
 body{
   font-family: arial;
   margin-left: 5%;
-  margin-right:5%%;
+  margin-right:5%;
   margin-bottom:5%;
   border: 2px solid gray;
   background-color: gray;
@@ -29,4 +29,9 @@ h1{
     padding-left: 2%;
 padding-right: 2%;
 padding-bottom: 2%;
+}
+
+.airtable-embed {
+    padding-left: 5%;
+padding-right: 5%;
 }
