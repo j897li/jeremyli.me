@@ -47,4 +47,6 @@ website:
   Engaged within the RBC community via 10+ coffee chats from students to recruiters, socials, hackathons, networking events, and tech community via volunteering with multiple teams including FutureMakers
 
 
-  <iframe class="airtable-embed" src="https://airtable.com/embed/shrMt70Ue4bdPwwbv?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  
+<figure class="airtable">
+  <iframe class="airtable-embed" src="https://airtable.com/embed/shrMt70Ue4bdPwwbv?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe></figure>
