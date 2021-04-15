@@ -60,3 +60,7 @@ University of Waterloo / 2017-2022
 - **Facilitator** of TEDxYouth @ RHHS
 
 ----
+
+<figure class="airtable">
+  <iframe class="airtable-embed" src="https://airtable.com/embed/shrMt70Ue4bdPwwbv?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe></figure>
+
