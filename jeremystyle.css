@@ -4,11 +4,11 @@ section {
 
 body{
   font-family: arial;
-  margin-left: 10%;
-  margin-right:10%;
+  margin-left: 5%;
+  margin-right:5%%;
   margin-bottom:5%;
-  border: 2px solid grey;
-  background-color: grey;
+  border: 2px solid gray;
+  background-color: gray;
 }
 
 h2 {
