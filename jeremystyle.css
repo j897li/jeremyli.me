@@ -4,11 +4,11 @@ section {
 
 body{
   font-family: arial;
-  margin-left: 25%;
-  margin-right:25%;
+  margin-left: 10%;
+  margin-right:10%;
   margin-bottom:5%;
-  border: 2px solid black;
-  background-color: black;
+  border: 2px solid grey;
+  background-color: grey;
 }
 
 h2 {
@@ -26,7 +26,7 @@ h1{
 }
 
 .resume {
-    padding-left: 5%;
-padding-right: 5%;
-padding-bottom: 5%;
+    padding-left: 2%;
+padding-right: 2%;
+padding-bottom: 2%;
 }
