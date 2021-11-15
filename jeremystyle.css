@@ -1,7 +1,9 @@
 section {
   background-color: white;
 }
-
+a{
+  color: lightgrey;
+}
 ul {
   list-style-type: none;
   margin: 0;
