@@ -4,22 +4,6 @@ section {
 a{
   color: lightgrey;
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #dddddd;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: table;
-  padding: 0px;
-}
 
 body{
   font-family: arial;
