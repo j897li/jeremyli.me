@@ -5,6 +5,7 @@ a{
   color: lightgrey;
 }
 table th td{
+  padding: 3px;
   border: 1px solid white;
 }
 
@@ -26,7 +27,7 @@ h2 {
 }
 
 h1{
-  font-size:35px;
+  font-size:30px;
   color: white;
 
 }
