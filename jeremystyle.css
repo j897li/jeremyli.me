@@ -5,7 +5,7 @@ a{
   color: lightgrey;
 }
 table th td{
-  border: 2px solid white;
+  border: 1px solid white;
 }
 
 body{
@@ -15,9 +15,10 @@ body{
   margin-right:5%;
   background-color: 0050A5;
 }
-h3 {
+.smile {
   font-size: 150px;
 }
+
 h2 {
   color: white;
 }
