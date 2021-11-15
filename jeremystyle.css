@@ -5,10 +5,10 @@ section {
 body{
   font-family: arial;
   color: white;
-  margin-left: 5%;
+  margin-left: 2%;
   margin-right:5%;
   margin-bottom:5%;
-  margin-top: 5%;
+  margin-top: 2%;
   border: 2px solid 0050A5;
   background-color: 0050A5;
 }
@@ -50,7 +50,7 @@ ul {
 }
 
 li {
-  float: center;
+  float: left;
 }
 
 li a {
