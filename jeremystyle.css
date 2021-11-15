@@ -9,15 +9,14 @@ table th td{
 }
 
 body{
-  font-family: arial;
+  font-family: helvetica;
   color: white;
   margin-left: 5%;
   margin-right:5%;
-  border: 2px solid 0050A5;
   background-color: 0050A5;
 }
 h3 {
-  font-size: 500px;
+  font-size: 150px;
 }
 h2 {
   color: white;
@@ -31,7 +30,6 @@ h1{
 
 .intro {
     text-align: left;
-    padding-top: 7.5%;
 }
 .center{
 margin-left: auto;
