@@ -16,7 +16,10 @@ body{
   background-color: 0050A5;
 }
 .smile {
-  font-size: 150px;
+  font-size: 100px;
+  text-decoration: none;
+  padding-top: 100px;
+
 }
 
 h2 {
