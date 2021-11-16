@@ -74,6 +74,22 @@ a.here {
   color: F9E007;
   font-style: oblique;
 }
+a.co {
+  color: pink;
+}
 a:hover {
 color: F9E007;
+}
+
+.column {
+column-count: 2;
+column-rule: 1px solid white;
+}
+.column2 {
+column-count: 4;
+column-rule: 1px solid white;
+}
+.header{
+column-span: all;
+
 }
