@@ -2,7 +2,7 @@ section {
   background-color: black;
 }
 a{
-  color: lightgrey;
+  color: white;
 }
 table th td{
   padding: 3px;
@@ -14,7 +14,7 @@ body{
   color: white;
   margin-left: 5%;
   margin-right:5%;
-  background-color: 0050A5;
+  background-color: 066BB0;
 }
 .smile {
   font-size: 100px;
