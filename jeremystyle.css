@@ -65,10 +65,14 @@ img.rounded {
   height: 100px;
   width: 100px;
 }
-a{
+a:link{
 color: white;
 }
 
-a: hover {
+a:hover {
 color: pink;
+}
+
+a:active{
+  color:blue;
 }
