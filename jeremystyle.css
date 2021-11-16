@@ -1,9 +1,7 @@
 section {
   background-color: black;
 }
-a:hover{
-color: red;
-}
+
 
 table th td{
   padding: 3px;
@@ -65,4 +63,8 @@ img.rounded {
   border-radius: 50%;
   height: 100px;
   width: 100px;
+}
+
+a: hover {
+color: red;
 }
