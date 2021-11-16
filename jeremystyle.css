@@ -71,7 +71,8 @@ a{
   text-decoration: none;
 }
 a.here {
-  color: red;
+  color: F9E007;
+  font-style: oblique;
 }
 a:hover {
 color: F9E007;
