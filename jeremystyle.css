@@ -51,8 +51,9 @@ padding-bottom: 10%;
     padding-left: 5%;
 padding-right: 5%;
 }
-table.navigation{
-  vertical-align: middle;
+
+.navigation{
+  vertical-align: bottom;
 }
 
 img.rounded {
