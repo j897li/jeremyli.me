@@ -1,6 +1,10 @@
 section {
   background-color: black;
 }
+a:hover{
+color: red;  
+}
+
 a{
   color: white;
 }
@@ -27,7 +31,7 @@ h2 {
 }
 
 h1{
-  font-size:35.0px;
+  font-size:30.0px;
   color: white;
 
 }
