@@ -10,7 +10,7 @@ table th td{
 }
 
 body{
-  font-family: helvetica;
+  font-family:monospace;
   color: white;
   margin-left: 5%;
   margin-right:5%;
@@ -19,7 +19,6 @@ body{
 .smile {
   font-size: 100px;
   padding-top: 100px;
-
 }
 
 h2 {
