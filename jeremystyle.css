@@ -2,12 +2,9 @@ section {
   background-color: black;
 }
 a:hover{
-color: red;  
+color: red;
 }
 
-a{
-  color: white;
-}
 table th td{
   padding: 3px;
   border: 1px solid white;
