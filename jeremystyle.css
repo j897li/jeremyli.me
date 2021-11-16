@@ -71,5 +71,8 @@ color: pink;
 }
 
 a:active{
-  color:blue;
+  color:white;
+}
+a:visited{
+  color: white;
 }
