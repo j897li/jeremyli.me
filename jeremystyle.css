@@ -65,6 +65,9 @@ img.rounded {
   height: 100px;
   width: 100px;
 }
+a{
+color: white;
+}
 
 a: hover {
 color: red;
