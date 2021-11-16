@@ -82,11 +82,11 @@ color: F9E007;
 }
 
 .column {
-column-count: 2;
+column-count: 1;
 column-rule: 1px solid white;
 }
 .column2 {
-column-count: 2;
+column-count: 1;
 column-rule: 1px solid white;
 }
 .header{
