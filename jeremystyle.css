@@ -68,8 +68,11 @@ img.rounded {
 
 a{
   color: white;
+  text-decoration: none;
 }
-
+a.here {
+  color: red;
+}
 a:hover {
 color: F9E007;
 }
