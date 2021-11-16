@@ -62,17 +62,10 @@ img.rounded {
 }
 
 
-a:link{
-color: white;
+a{
+  color: white;
 }
 
 a:hover {
-color: pink;
-}
-
-a:active{
-  color:white;
-}
-a:visited{
-  color: white;
+color: F9E007;
 }
