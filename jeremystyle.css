@@ -91,5 +91,13 @@ column-rule: 1px solid white;
 }
 .header{
 column-span: all;
+}
 
+i
+ {
+  color: orange;
+}
+
+strong, .role {
+  color: lime;
 }
