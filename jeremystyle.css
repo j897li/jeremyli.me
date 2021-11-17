@@ -75,7 +75,7 @@ a.here {
   font-style: oblique;
 }
 a.co {
-  color: pink;
+  color: lime;
 }
 a:hover {
 color: F9E007;
@@ -99,5 +99,5 @@ i
 }
 
 strong, .role {
-  color: lime;
+  color: lightgrey;
 }
